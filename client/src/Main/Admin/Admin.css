@@ -1,0 +1,155 @@
+.contain {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 450px;
+    width: 200px;
+    border:2px solid black;
+    margin-top: 100px;
+    margin-right: 1px;
+    margin-left: 200px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: column;
+    padding-top:50px;
+    padding-right: 250px;
+    font-size: 50px;
+    width: 50px;
+    
+    
+  }
+
+  
+  .ads{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    margin: 2px;
+
+
+  }
+.fun-list{
+    display: flex;
+}
+
+
+
+  .com,.date{
+    font-size:16px ;
+    width: 200px;
+    height: 50px;
+    padding: 0.5em;
+    margin:10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  .com{
+    width: 60px;
+  }
+
+  
+.item
+  {
+    padding: 0.5em;
+    width: 220px;
+    font-size: 16px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+
+  .additem,.removeitem{
+    padding: 0.5em 1em;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+    width: 100px;
+  }.alert,.store {
+    padding: 0.5em 1em;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+    width: 100px;
+  }
+
+  .download{
+    padding: 0.5em 1em;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+    width: 220px;
+
+  }
+
+  .start-button {
+    
+    background-color: green;
+    padding: 0.5em 1em;
+    
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 10px;
+
+  }
+
+  .date-com{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    width: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    
+   
+
+}
+  
+
+
+.o-list{
+    
+    margin-left: 1px;
+    height: auto;
+    width: 220px;
+    font-size: 30px;
+
+    
+}
+.lisss{
+    border: 2px solid black;
+    
+    margin-top: 100px;
+    margin-left: 1px;
+    width: 230px;
+    
+}
+
+.hn{
+    font-size: large;
+    width: 220px;
+    color: black;
+}
+
+.fun-list{
+    background-color: bisque;
+}
